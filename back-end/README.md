@@ -18,13 +18,3 @@ app.use(cors())
 ```javaScript
 node index.js
 ```
-
-### step3 启动前端项目
-```javaScript
-npm run serve
-```
-
-### 前端项目核心依赖
-```javaScript
-npm install --save vue-apollo graphql apollo-boost
-```
