@@ -2,7 +2,7 @@
 vue & Node & Express GraphQL API Example
 
 ### step1 后端
-进入 node-express-graphql-api
+进入 back-end
 npm install cors --save
 
 ### step2 打开 index.js 文件
